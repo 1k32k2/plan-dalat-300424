@@ -66,7 +66,8 @@
 
 - [x] lên plan
 - [ ] mua vé xe
-- [ ] đặt phòng
+- [x] đặt phòng
+- [x] nhân sự
 
 lịch trình dự kiến
 
