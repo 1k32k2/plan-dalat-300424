@@ -25,13 +25,29 @@
 - chi phí phát sinh dự kiến 150k/người
 - chi phí giặt sấy ~150k/người
 
-nàng tiên cá 11h, 15h
-cho cá ăn 10h, 17h
+## Show vinWonderlands
+
+<details>
+
+| tiết mục | thời gian
+| ---: | :--- 
+| cho cá ăn | 10 -10 15
+| nàng tiên cá | 11 - 11 10
+| show chim | 11 - 11 20
+| nàng tiên cá | 15 - 15 10
+| show chim | 15 -15 20
+| cho cá ăn | 17 -17 15
+| nhạc nước | 19 -19 15
+| Tata show | 19 30 -20 10
+
+
+
+</details>
 
  ## Bấm bill tạm
 
 <details>
-    
+
 | hạng mục | giá 
 | ---: | :--- 
 | phòng ở nha trang | 400k 
@@ -47,6 +63,18 @@ cho cá ăn 10h, 17h
 ### Tổng tạm bấm: 3 củ 2
 ~~Dự kiến còn discount~~ => Discount 5% so với giá niêm yết trên web
 
+
+- [x] lên plan
+- [ ] mua vé xe
+- [ ] đặt phòng
+
+lịch trình dự kiến
+
+- sáng 26 chơi ngoài
+- đêm 26 ngủ ngoài
+- sáng 27 vào vin chơi
+- đêm 27 ngủ trong vin
+- sáng 28 về
 
 
 
