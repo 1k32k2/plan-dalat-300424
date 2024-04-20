@@ -31,6 +31,7 @@ cho cá ăn 10h, 17h
  ## Bấm bill tạm
 
 <details>
+    
 | hạng mục | giá 
 | ---: | :--- 
 | phòng ở nha trang | 400k 
